@@ -1,0 +1,1 @@
+"""Final aggregated response model."""
